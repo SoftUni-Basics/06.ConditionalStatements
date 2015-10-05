@@ -80,7 +80,7 @@ class EncryptTheMessages
         }
         else
         {
-            Console.WriteLine("No message received.");
+            Console.WriteLine("No messages sent.");
         }
     }
 }

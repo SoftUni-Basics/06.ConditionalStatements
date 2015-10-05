@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.Sunlight", "15.Sunlight\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.EncryptTheMessages", "16.EncryptTheMessages\16.EncryptTheMessages.csproj", "{7C42C49A-8ABB-422A-9B2B-7AC990CFA47E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.GameOfLife", "17.GameOfLife\17.GameOfLife.csproj", "{8F91098A-16DF-4AB7-934B-31AE00E6C3AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{7C42C49A-8ABB-422A-9B2B-7AC990CFA47E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C42C49A-8ABB-422A-9B2B-7AC990CFA47E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C42C49A-8ABB-422A-9B2B-7AC990CFA47E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F91098A-16DF-4AB7-934B-31AE00E6C3AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F91098A-16DF-4AB7-934B-31AE00E6C3AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F91098A-16DF-4AB7-934B-31AE00E6C3AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F91098A-16DF-4AB7-934B-31AE00E6C3AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
